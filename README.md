@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fruurf)](https://github.com/anuraghazra/github-readme-stats)
-
+<span>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=fruuurf&title_color=0089ff&text_color=ffffff&bg_color=202020&border_radius=10&border_color=808080" height="150px">
+<img alt="fruuurf's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fruuurf&layout=compact&title_color=0089ff&text_color=ffffff&bg_color=202020&border_radius=10&border_color=808080" height="150px">
+</span>
 
 <!--
 **fruuurf/fruuurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

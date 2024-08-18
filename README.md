@@ -1,15 +1,13 @@
 ## Hi there 👋
 
-<div align="center">
+<img alt="movie" src="movie.gif">
 
-<a href="https://fruuurf.github.io/Furafuramentaiko/"><img alt="my site" src="https://github.com/user-attachments/assets/2eed17fe-d45a-47b7-9c6c-df6b67cf7efa" width="32.5px"></a>　
-<a href="https://misskey.io/@Furafuramentaiko"><img alt="misskey.io" src="https://github.com/user-attachments/assets/292339e4-fec7-42c8-bb0f-cd2a22c98304" width="32.5px"></a>　
-<a href="https://misskey.04.si/@Furafuramentaiko"><img alt="misskey.04.si" src="https://github.com/user-attachments/assets/7dfa72cd-7083-4bc2-833a-b9c1460a5353" width="32.5px"></a>　
-<a href="https://www.youtube.com/@Furafuramentaiko/"><img alt="YouTube" src="https://github.com/user-attachments/assets/ff7dba33-b303-4fc4-9e4d-f3820c6005e6" width="32.5px"></a>　
-<a href="https://www.instagram.com/Furafuramentaiko/"><img alt="instagram" src="https://github.com/user-attachments/assets/e8ea9082-c423-4755-918c-e8325f646f97" width="32.5px"></a>　
+<a href="https://fruuurf.github.io/Furafuramentaiko/"><img alt="my site" src="./my_site.png" width="32.5px"></a>　
+<a href="https://misskey.io/@Furafuramentaiko"><img alt="misskey.io" src="./misskey.io.png" width="32.5px"></a>　
+<a href="https://misskey.04.si/@Furafuramentaiko"><img alt="misskey.04.si" src="./misskey.04.si.png" width="32.5px"></a>　
+<a href="https://www.youtube.com/@Furafuramentaiko/"><img alt="YouTube" src="./YouTube.png" width="32.5px"></a>　
+<a href="https://www.instagram.com/Furafuramentaiko/"><img alt="instagram" src="./Instagram.png" width="32.5px"></a>　
 
-
-<span>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=fruuurf&title_color=0089ff&text_color=ffffff&bg_color=202020&border_radius=15&border_color=808080" height="150px">
 <img alt="fruuurf's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fruuurf&layout=compact&title_color=0089ff&text_color=ffffff&bg_color=202020&border_radius=10&border_color=808080" height="150px">
 

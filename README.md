@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img alt="movie" src="movie.gif">
+<img alt="movie" src="movie.gif" width="100%">
 
 <a href="https://fruuurf.github.io/Furafuramentaiko/"><img alt="my site" src="./my_site.png" width="32.5px"></a>　
 <a href="https://misskey.io/@Furafuramentaiko"><img alt="misskey.io" src="./misskey.io.png" width="32.5px"></a>　
@@ -8,9 +8,10 @@
 <a href="https://www.youtube.com/@Furafuramentaiko/"><img alt="YouTube" src="./YouTube.png" width="32.5px"></a>　
 <a href="https://www.instagram.com/Furafuramentaiko/"><img alt="instagram" src="./Instagram.png" width="32.5px"></a>　
 
+<span>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=fruuurf&title_color=0089ff&text_color=ffffff&bg_color=202020&border_radius=15&border_color=808080" height="150px">
 <img alt="fruuurf's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fruuurf&layout=compact&title_color=0089ff&text_color=ffffff&bg_color=202020&border_radius=10&border_color=808080" height="150px">
-
+</span>
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,vscode,blender)](https://skillicons.dev)
